@@ -1,0 +1,32 @@
+{
+  "name": "emphasis",
+  "version": "0.1.0",
+  "description": "small function that normalizes a string which does not contain either for emphasis, spaces or special character",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/xulien/emphasis.git"
+  },
+  "devDependancies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "keywords": [
+    "string",
+    "normalize",
+    "emphasis",
+    "spaces",
+    "character",
+    "naturalId",
+    "url"
+  ],
+  "author": "xulien",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xulien/emphasis/issues"
+  },
+  "homepage": "https://github.com/xulien/emphasis"
+}
