@@ -8,7 +8,7 @@ module.exports = function(string) {
 		.replace(/œ/g, "oe")
 		.replace(/[éèêë]/g, "e")
 		.replace(/ç/g, "c")
-		.replace(/[’',&%@"\/()]/g, "-")
+		.replace(/[’',&%@«»"\/()]/g, "-")
 		.replace(/ /g, "-")
 		.replace(/-+/g, "-");
 }
