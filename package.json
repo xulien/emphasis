@@ -1,6 +1,6 @@
 {
   "name": "emphasis",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "small function that normalizes a string which does not contain either for emphasis, spaces or special character",
   "main": "index.js",
   "scripts": {
